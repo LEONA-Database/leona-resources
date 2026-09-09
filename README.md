@@ -155,7 +155,7 @@ Typical inputs include:
 
 | Method / Resource | Scale | Output | Access |
 |---|---|---|---|
-| ThinkHazard! | Global | Hazard information | [Link] |
+| ThinkHazard! | Global | Hazard information | [https://thinkhazard.org/en/] |
 | LHASA | Global | Landslide hazard nowcast | [GitHub] |
 | LEONA susceptibility workflow | Study-area / regional | Susceptibility map | Coming soon |
 
